@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/MisterTK/semantex/releases/download/v1.0.0/semantex-v1.0.0-x86_64-pc-windows-msvc.zip",
-      "hash": "81f33ad5317db49375b69e30983cd668a76ca2da043c37be2ecc7fb3600ccff3",
+      "hash": "023a66a68bed0b4cffbdd89920efad0db720b0eb5b8bcb8cac5b271a33d88964",
       "extract_dir": "semantex-v1.0.0-x86_64-pc-windows-msvc"
     }
   },
