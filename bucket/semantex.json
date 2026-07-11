@@ -1,13 +1,13 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Semantic code search — hybrid ColBERT + BM25 retrieval engine",
   "homepage": "https://semantex.dev",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/MisterTK/semantex/releases/download/v1.0.1/semantex-v1.0.1-x86_64-pc-windows-msvc.zip",
-      "hash": "57f3ae167a12ca8c4e76a3fba28c2d6181d364c8396c1c9bd519cd587f2ead8c",
-      "extract_dir": "semantex-v1.0.1-x86_64-pc-windows-msvc"
+      "url": "https://github.com/MisterTK/semantex/releases/download/v1.0.2/semantex-v1.0.2-x86_64-pc-windows-msvc.zip",
+      "hash": "014c1f70661d99f44f9c2d95958a1a8347c2a2ef1195dd2de8232fa5c4b8f9be",
+      "extract_dir": "semantex-v1.0.2-x86_64-pc-windows-msvc"
     }
   },
   "bin": "semantex.exe",
